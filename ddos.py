@@ -1,2 +1,2 @@
-if DDos.attack == True:
+.if DDos.attack == True:
     DDos ("http://localhost:3000")
